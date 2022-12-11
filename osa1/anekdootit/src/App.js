@@ -47,7 +47,7 @@ const App = () => {
     votesCopy[selected] += 1
     setVotes(votesCopy)
   }
-
+// jotain uutta
   return (
     <div>
       <h2>Anecdote of the day</h2>
