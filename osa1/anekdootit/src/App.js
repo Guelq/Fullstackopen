@@ -12,7 +12,7 @@ const ShowAnecdote = ({ anecdote }) => (
   </div>
 )
 
-const ShowVotes = ({ votes }) => (
+const Shes = ({ votes }) => (
   <div>
     has {votes} votes
   </div>
