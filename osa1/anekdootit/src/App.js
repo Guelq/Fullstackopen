@@ -17,7 +17,7 @@ const ShowVotes = ({ votes }) => (
     has {votes} votes
   </div>
 )
-
+// tännekkin jotain
 const App = () => {
   const anecdotes = [
     'If it hurts, do it more often.',
